@@ -4,20 +4,33 @@
 
 ---
 
+## 📊 Performance Visual: The High-Margin Layer
+Uber is successfully layering high-margin Ads on top of its physical logistics network.
+
+![Uber Ads](../assets/uber_ads_growth.png)
+
+---
+
 ## 💡 The Core Thesis
-Uber is winning the "Mobility War" not by building cars, but by owning the **Demand.** It is the indispensable orchestration layer for the future of autonomous logistics.
+Uber has won the "Mobility War" by owning the **Demand.** It is no longer a ride-share company; it is the **Operating System for global logistics.**
 
 ### **Key Value Drivers**
-*   **The Ad Engine:** High-margin advertising is hitting a $1.5B run rate with 70% margins—a structural shift in profitability.
-*   **AV Marketplace Moat:** Whether the car is a Waymo or a Tesla, the owner *needs* Uber’s 200M users to keep the car busy.
-*   **Financial Fortress:** $9.8B in Free Cash Flow (2025) and 30M "Uber One" members create a massive recurring revenue floor.
+1.  **The Advertising Inflection:** Reaching a **$1.5B run rate at 70% margins** is a structural shift. Ads are now a significant driver of EPS growth, transforming the valuation multiple.
+2.  **AV Marketplace Dominance:** Whether the car is a Waymo or a Tesla Cybercab, the owner *needs* Uber’s 200M users to achieve profitable utilization. Uber is the "Toll Booth" for all AV fleets.
+3.  **Uber One (The Lock-In):** 30M members spend 3x more and ensure high lifetime value (LTV). This recurring revenue floor protects the stock during macro dips.
+
+---
+
+## 🔬 Your Cushion: $61 Entry
+*   **Strategy:** You are currently up **+23%**. This allows you to ride out the "Monday Bloodbath" without panic.
+*   **Structural Moat:** The "Hybrid" fleet (Human + AV) is Uber's unique advantage. It can scale where robotaxis can't, making it more resilient than pure-play AV competitors.
 
 ---
 
 ## 📉 Tactical Guidance
-*   **Current Position:** $61.00 Entry (Maintain).
-*   **Structural Role:** Core Alpha. The "Engine" of your consumer platform exposure.
-*   **Structural Stop:** $65.00 (Ignore daily noise).
+*   **Action:** **STICK.** Do not be shaken out by geopolitical noise.
+*   **Structural Stop:** $65.00
+*   **12-Month Target:** $104.00
 
 ---
-*Generated for the Private AI OS &bull; March 2026*
+*Generated for the Private AI OS & bull; March 2026*

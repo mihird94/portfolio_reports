@@ -10,6 +10,7 @@ Broad market analysis, war shock assessments, and "Monday Bloodbath" roadmaps.
 
 ### 📈 [Investment Thesis Deep-Dives](./investment_thesis/)
 Individual stock analysis for the **Alpha Sleeve** (5-7 year horizon).
+*   [🔬 ASML - Sovereign Tech (EUV Monopoly)](./investment_thesis/ASML_Thesis.md)
 *   [⚡ VST - Vistra Corp (Nuclear)](./investment_thesis/VST_Thesis.md)
 *   [🏗️ HUBB - Hubbell Inc (Grid)](./investment_thesis/HUBB_Thesis.md)
 *   [🏹 HOOD - Robinhood (Finance)](./investment_thesis/HOOD_Thesis.md)
