@@ -58,8 +58,34 @@ def create_rotation():
     plt.savefig(os.path.join(asset_dir, 'regime_rotation.png'))
     plt.close()
 
+# 4. Current Portfolio Snapshot
+def create_current_portfolio():
+    # Weights from portfolio.toml
+    labels = ['VOO (Core)', 'GLD (Hedge)', 'GOOGL (Alpha)', 'ASML (Alpha)', 'Legacy (SOXX/VGT/XLI)', 'Other Alpha']
+    sizes = [44.82, 20.96, 7.70, 6.53, 12.86, 7.13] # Normalized roughly
+    
+    fig, ax = plt.subplots(figsize=(10, 10))
+    # Using specific colors for categories
+    colors_p = ['#38bdf8', '#fbbf24', '#818cf8', '#a78bfa', '#ef4444', '#c084fc']
+    
+    ax.pie(sizes, labels=labels, autopct='%1.1f%%',
+           startangle=140, colors=colors_p,
+           textprops={'fontsize': 12, 'color': 'white', 'fontweight': 'bold'},
+           pctdistance=0.85)
+    
+    # Draw circle for donut chart effect
+    centre_circle = plt.Circle((0,0), 0.70, fc='#0f172a')
+    fig.gca().add_artist(centre_circle)
+    
+    ax.set_title('Current Fortress Allocation Snapshot', fontsize=18, color='#38bdf8', pad=20)
+    
+    plt.tight_layout()
+    plt.savefig(os.path.join(asset_dir, 'current_portfolio.png'))
+    plt.close()
+
 if __name__ == "__main__":
     create_barbell()
     create_timeline()
     create_rotation()
+    create_current_portfolio()
     print("Visuals generated successfully in assets/")
