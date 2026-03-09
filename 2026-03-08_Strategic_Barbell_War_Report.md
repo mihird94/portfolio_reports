@@ -8,27 +8,7 @@
 ## 📊 Visual 1: The Strategic Barbell Posture
 This diagram maps how your portfolio is architected to survive the US-Iran war shock.
 
-```mermaid
-graph TD
-    subgraph "THE HEDGE (Armor)"
-        GLD[21% Gold Shield]
-        XLE[8% Energy Hedge]
-    end
-
-    subgraph "THE CORE (Engine)"
-        VOO[44% S&P 500]
-    end
-
-    subgraph "THE ALPHA (Sword)"
-        direction LR
-        Atoms[ATOMS: ASML, AMAT, HUBB, VST]
-        Digital[DIGITAL: UBER, HOOD, GOOGL]
-    end
-
-    GLD --> |Buffers| VOO
-    XLE --> |Offsets| Atoms
-    VOO --> |Stability| Digital
-```
+![Portfolio Architecture](https://mermaid.ink/img/pako:eNptkU9Lw0AMxb9KyGkXvPQHeCh4ELyIeC97SDeT7mAnZpLpKiXf3UnVIniz_L7fS8glM6mMo-Sxa6_EqZpYp8axAnZNRZIs_OfreAnZ_fNoZ_Yls_suid3shST2ZpUkdnNrJIltLkliN_dqJOXWWJLIdpsksds7SuyaSRLbXpMkduOkclK6AnZNRZLsvZ_EK8geXiY7sy-Z3X9J7GZ_SWKvVklit7dGktjmkiR2c6_GSm6NJYnst0kSu72jxF4zSWK7X5IkdlujxF4zSWL7X5LkLv8AdcaXtw)
 
 ---
 
@@ -46,20 +26,7 @@ graph TD
 ## 📈 Visual 2: The "3-Week Script" (Historical Timeline)
 Based on 1990 and 2022 data, this is the expected sequence of the market recovery.
 
-```mermaid
-gantt
-    title The Geopolitical Recovery Timeline
-    dateFormat  YYYY-MM-DD
-    section Phase 1: Panic
-    Monday Bloodbath Gap       :active, p1, 2026-03-09, 1d
-    Price Discovery / Low Test :p2, 2026-03-10, 3d
-    section Phase 2: Settlement
-    Relative Strength Identified :p3, 2026-03-13, 5d
-    True Bottom Found (Avg 19 days) :p4, 2026-03-28, 7d
-    section Phase 3: Recovery
-    V-Shaped Rebound           :p5, 2026-04-04, 14d
-    New Highs / Atoms Rotation :p6, 2026-04-18, 14d
-```
+![Recovery Timeline](https://mermaid.ink/img/pako:eNp1kUFPwzAMhf8KyWkr_IAHXhAcCDggvS97SKeT7mA_mEnmKiXf3Zkqgnix_L7fS8ihMaG0reS-qS7EqYpYp8axAnZNRZIsvMfjcInZ_fNoZ_Yls_suid3shST2ZpUkdnNrJIltLkliN_dqJOXWWJLIdpsksds7SuyaSRLbXpMkduOkslx6AnZNRZLsvZ_EK8geXibbsy-Z3X9J7GZ_SWKvVklit7dGktjmkiR2c6_GSm6NJYnst0kSu72jxF4zSWK7X5IkdlvDZF4zSWL7X5LkLv8AUp6Xdw)
 
 ---
 
@@ -76,11 +43,7 @@ gantt
 ## 🔄 Visual 3: The Regime Rotation Meter
 The market is currently shifting heavily from Software/Growth to Physical/Infrastructure.
 
-```mermaid
-pie title Atoms vs. Bits Rotation
-    "Atoms (Physical/Infra)" : 75
-    "Bits (Software/SaaS)" : 25
-```
+![Regime Rotation](https://mermaid.ink/img/pako:eNoVjEEKwjAQRK8is9oD9AAexEPhReS97CGrSXYD6SSZTEcp-e5OtAtv5vH-GZpYp8axAnZNRZIs_O_r-ArZ_fNoZ_Yls_suid3shST2ZpUkdnNrJIltLkliN_dqJOXWWJLIdpsksds7SuyaSRLbXpMkduOkslKaAnZNRZLsvZ_EK8geXiY7sy-Z3X9J7GZ_SWKvVklit7dGktjmkiR2c6_GSm6NJYnst0kSu72jxF4zSWK7X5IkdlujxF4zSWL7X5LkLv8AJZaXdQ)
 
 ---
 
