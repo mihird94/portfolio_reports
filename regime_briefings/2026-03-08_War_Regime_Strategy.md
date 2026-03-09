@@ -8,7 +8,7 @@
 ## 🏛️ Visual 0: Current Portfolio Allocation
 This is your actual starting point heading into the Monday Bloodbath.
 
-![Current Allocation](assets/current_portfolio.png)
+![Current Allocation](../assets/current_portfolio.png)
 
 ### **The "Strategic Drag" Audit**
 *   **Core Anchor (44.8%)**: VOO provides market beta. No action needed.
@@ -21,7 +21,7 @@ This is your actual starting point heading into the Monday Bloodbath.
 ## 📊 Visual 1: The Strategic Barbell Posture
 This chart maps how your portfolio is architected to survive the US-Iran war shock.
 
-![Portfolio Architecture](assets/barbell_posture.png)
+![Portfolio Architecture](../assets/barbell_posture.png)
 
 ---
 
@@ -39,7 +39,7 @@ This chart maps how your portfolio is architected to survive the US-Iran war sho
 ## 📈 Visual 2: The "3-Week Script" (Historical Timeline)
 Based on 1990 and 2022 data, this is the expected sequence of the market recovery.
 
-![Recovery Timeline](assets/recovery_timeline.png)
+![Recovery Timeline](../assets/recovery_timeline.png)
 
 ---
 
@@ -56,7 +56,7 @@ Based on 1990 and 2022 data, this is the expected sequence of the market recover
 ## 🔄 Visual 3: The Regime Rotation Meter
 The market is currently shifting heavily from Software/Growth to Physical/Infrastructure.
 
-![Regime Rotation](assets/regime_rotation.png)
+![Regime Rotation](../assets/regime_rotation.png)
 
 ---
 
