@@ -5,6 +5,19 @@
 
 ---
 
+## 🏛️ Visual 0: Current Portfolio Allocation
+This is your actual starting point heading into the Monday Bloodbath.
+
+![Current Allocation](assets/current_portfolio.png)
+
+### **The "Strategic Drag" Audit**
+*   **Core Anchor (44.8%)**: VOO provides market beta. No action needed.
+*   **The Hedge (21.0%)**: GLD is your primary insurance. It handles the "War Shock" so you don't have to panic-sell tech.
+*   **The Alpha Sleeve (14.2%+)**: ASML and GOOGL are your high-conviction anchors. ASML ($703 entry) is your strongest asset.
+*   **The Legacy Drag (~13.0%)**: SOXX, VGT, and XLI represent the capital available for the **"Atoms Rotation."** These are the "funding sources" for your wishlist picks.
+
+---
+
 ## 📊 Visual 1: The Strategic Barbell Posture
 This chart maps how your portfolio is architected to survive the US-Iran war shock.
 
