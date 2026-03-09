@@ -1,51 +1,86 @@
 # 🏰 Fortress Barbell: War Regime Strategy Report
 **Date:** March 8, 2026
 **Market Regime:** US-Iran War / "Atoms" Rotation
-**Sentiment:** 🔴 EXTREME FEAR (11) | **VIX:** 29.49
+**Sentiment:** ![Extreme Fear](https://img.shields.io/badge/Sentiment-EXTREME_FEAR-red?style=for-the-badge) ![VIX](https://img.shields.io/badge/VIX-29.49-orange?style=for-the-badge)
 
 ---
 
-## 🛡️ Executive Summary: The Barbell Posture
+## 📊 Visual 1: The Strategic Barbell Posture
+This diagram maps how your portfolio is architected to survive the US-Iran war shock.
 
-| Component | Status | Insight |
-| :--- | :--- | :--- |
-| **Gold Shield** | **20.96% Weight** | Primary buffer for the bloodbath. Gold is your "Patience Asset." |
-| **Regime Shift** | **Atoms > Bits** | Pivot from Software (SaaS) to physical Energy, Nuclear, and Grid Infra. |
-| **Ethics Rule** | **Clean Alpha** | Winning through Energy Autonomy and Resilience (No individual defense picks). |
+```mermaid
+graph TD
+    subgraph "THE HEDGE (Armor)"
+        GLD[21% Gold Shield]
+        XLE[8% Energy Hedge]
+    end
+
+    subgraph "THE CORE (Engine)"
+        VOO[44% S&P 500]
+    end
+
+    subgraph "THE ALPHA (Sword)"
+        direction LR
+        Atoms[ATOMS: ASML, AMAT, HUBB, VST]
+        Digital[DIGITAL: UBER, HOOD, GOOGL]
+    end
+
+    GLD --> |Buffers| VOO
+    XLE --> |Offsets| Atoms
+    VOO --> |Stability| Digital
+```
 
 ---
 
 ## 📋 Portfolio Audit & War Resilience
 
-### **1. High-Cushion Anchors (Stick)**
-*   **ASML**: **+83% Cushion** ($703 Entry). Do not sell the EUV monopoly.
-*   **UBER**: **+23% Cushion** ($61 Entry). Structural Stop @ $65. Thesis (Ads + AV) is stronger than ever.
+| Ticker | Theme | Cushion | Action |
+| :--- | :--- | :--- | :--- |
+| **ASML** | Atoms / EUV monopoly | **+83%** | **STICK.** Do not sell the monopoly. |
+| **UBER** | Logistics OS / AV | **+23%** | **STICK.** Structural Stop @ $65. |
+| **AMAT** | Foundry Supercycle | **+5%** | **HOLD.** Expand on dips once settled. |
+| **VOO** | Core market engine | **BETA** | **RIDE.** Market Engine. |
 
-### **2. Building Blocks (Wait for Base)**
-*   **AMAT**: **+5% Cushion**. Foundry supercycle leader. Expand on dips once settled.
-*   **VOO**: Core market engine. Expect Beta volatility; ride it out.
+---
 
-### **3. Strategic Drag (Exit)**
-*   **SOXX / VGT / XLI**: Legacy Tech & Sector broad exposure. Rotate into "Atoms" on relief bounces.
+## 📈 Visual 2: The "3-Week Script" (Historical Timeline)
+Based on 1990 and 2022 data, this is the expected sequence of the market recovery.
+
+```mermaid
+gantt
+    title The Geopolitical Recovery Timeline
+    dateFormat  YYYY-MM-DD
+    section Phase 1: Panic
+    Monday Bloodbath Gap       :active, p1, 2026-03-09, 1d
+    Price Discovery / Low Test :p2, 2026-03-10, 3d
+    section Phase 2: Settlement
+    Relative Strength Identified :p3, 2026-03-13, 5d
+    True Bottom Found (Avg 19 days) :p4, 2026-03-28, 7d
+    section Phase 3: Recovery
+    V-Shaped Rebound           :p5, 2026-04-04, 14d
+    New Highs / Atoms Rotation :p6, 2026-04-18, 14d
+```
 
 ---
 
 ## 🔬 Validated Wishlist (5-7 Year Alpha)
 
-| Ticker | Theme | Target / Action |
-| :--- | :--- | :--- |
-| **⚡ VST** | **Nuclear Power** | **Target: 4% Weight.** The "Energy Independence" winner. |
-| **🏗️ HUBB** | **Grid Infrastructure** | **Target Zone: $470 - $475.** The "Picks & Shovels" of AI power. |
-| **🏹 HOOD** | **Next-Gen Finance** | **Wait for: $68 - $72.** The "Wealth Migration" magnet. |
+| Ticker | Theme | Probability | Target / Action |
+| :--- | :--- | :--- | :--- |
+| **⚡ VST** | **Nuclear Power** | **9.0** | **Target: 4% Weight.** Energy Autonomy. |
+| **🏗️ HUBB** | **Grid Infrastructure** | **8.0** | **Target Zone: $470 - $475.** AI Power. |
+| **🏹 HOOD** | **Next-Gen Finance** | **8.5** | **Wait for: $68 - $72.** Wealth Migration. |
 
 ---
 
-## 🛣️ Historical Roadmap: The "Bloodbath" Script
+## 🔄 Visual 3: The Regime Rotation Meter
+The market is currently shifting heavily from Software/Growth to Physical/Infrastructure.
 
-*   **The 1990 Rule:** Markets often bottom the **same day** hostilities begin as risk becomes "quantifiable."
-*   **The 2022 Script:** Russia-Ukraine bottomed 24 hours after the invasion.
-*   **The Average:** 19 trading days to bottom; 42 days to full recovery.
-*   **The Verdict:** **DO NOT RUSH.** Strategic patience is historically the highest-yielding move.
+```mermaid
+pie title Atoms vs. Bits Rotation
+    "Atoms (Physical/Infra)" : 75
+    "Bits (Software/SaaS)" : 25
+```
 
 ---
 
